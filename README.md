@@ -1,5 +1,4 @@
-# testes-carga-k6
-Testes de carga com a ferramenta k6 em JavaScript.
+# Testes de carga com a ferramenta k6 em JavaScript.
 
 # Testes:
 
