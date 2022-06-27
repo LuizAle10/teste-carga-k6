@@ -164,5 +164,7 @@ Diferentes tipos de teste ensinarão coisas diferentes sobre seu sistema e forne
 - Quando fazer o teste de imersão?
 
 ### O teste de imersão ajuda a descobrir bugs e problemas de confiabilidade que surgem por um longo período. Muitos sistemas complexos possuem bugs dessa natureza.
+
 ### Você deve executar testes de absorção depois que seus testes de carga padrão forem bem-sucedidos e seu sistema for considerado estável ao executar um teste de estresse.
+
 ### O teste de imersão é o último grande passo no caminho para a construção de sistemas confiáveis.
